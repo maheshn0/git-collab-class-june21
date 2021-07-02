@@ -3,3 +3,4 @@
 `git branch <NAME>`: create a new branch <NAME>
 `git switch <NAME>`: switch to <NAME> 
    `git checkout <NAME>`: old way to switch to <NAME>\
+`git stash`: creates temporary commits
